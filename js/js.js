@@ -27,5 +27,3 @@ function lottery(str) {
         return 'One more run!';
     }  
 }
-
-123
