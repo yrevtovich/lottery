@@ -28,3 +28,4 @@ function lottery(str) {
     }  
 }
 
+123
